@@ -2,151 +2,177 @@
 ##### translated strings #####
 
 Switch language to english ?
-== Passer la langue en français ?
+== تغيير اللغة إلى العربية ؟
 
 %s entered and joined the game
-== %s est arrivé(e) et a rejoint la partie
+== %s إنضم إلى اللعبة
 
 %s joined the game
-== %s a rejoint la partie
+== %s إنضم إلى الشوط
 
 %s joined the spectators
-== %s a rejoint les spectateurs
+== %s إنضم الى المشاهدين
 
 %s has left the game
-== %s a quitté la partie
+== %s غادر اللعبة
 
 %s has left the game (%s)
-== %s a quitté la partie (%s)
+== %s غادر اللعبة (%s)
 
 %s has been kicked (%s)
-== %s a été viré(e) (%s)
+== %s تم طرده (%s)
 
 %s has been banned (%s)
-== %s a été banni(e) (%s)
+== %s تم نفيه (%s)
 
 %s changed their name to %s
-== %s a changé son nom pour %s
+== %s غير إسمه إلي  %s
 
 Unknown command
-== Commande inconnue
+== طلب غير معلوم
 
 A random class will be automatically attributed to you when rounds start
-== Une classe aléatoire vous sera automatiquement attribuée en début de manche
+== سيم تعيين شخصية تلقائيا عند بداية الشوط
 
 The class selector will be displayed when rounds start
-== Le sélecteur de classe sera affiché en début de manche
+== تستطيع معرفة إختيار شخصيتك عند بداية الشوط
 
 You can't join the spectators right now
-== Vous ne pouvez-pas rejoindre les spectateurs pour le moment
+== لايمكنك الانضمام الى المشاهدين الآن
 
 You are frozen: %d sec
-== Vous êtes gelées : %d sec
+== تم شللك : %d sec
 
 You have infected %s, +3 points
-== Vous avez infecté %s, +3 points
+== لقد مررت العدوى %s, +3 نقاط
 
 You have killed a witch, +5 points
-== Vous avez tué une sorcière, +5 points
+==   لقد قتلت ساحرة  . +5 نقاط
 
 You have survived, +5 points
-== Vous avez survécu, +5 points
-
-You have infected %s using portals, -5 points
-== Vous avez infecté %s à l'aide d'un portail, -5 points
+== لقد نجوت . +5 نقاط
 
 %s has been infected
-== %s a été infecté(e)
+== %s أصيب بالعدوى
 
 The witch is coming!
-== La Sorcière arrive !
+==   اتت الساحرة !
 
 The witch is dead
-== La Sorcière est morte
+== قتلة الساحرة !
+
+
+
+
+
 
 The undead is coming!
-== Le Mort-vivant arrive !
+==  !
 
 The undead is finally dead
 == Le Mort-vivant est finalement mort
 
+
+
+
+
+
+
+
 Infected won the round in %i:%02i minutes
-== Les infectés ont gagné la manche en %i:%02i minutes
+== ربح المصابون بالعدوى في  %i:%02i دقيقة
 
 One human won the round
-== Un humain a gagné la manche
+== إنسان واحد ربح الجولة
 
 %i humans won the round
-== %i humains ont gagné la manche
+== %i لاعبين ربحوا الجولة
 
 Choose your class
-== Choisissez votre classe
+== إختر شخصيتك
 
 Random choice
-== Choix aléatoire
+== إختيار عشوائي
 
 Engineer
-== Ingénieur
+== مهندس
 
 Soldier
-== Soldat
+== جندي
 
 Scientist
-== Scientifique
+== عالم
 
 Medic
-== Médecin
+== طبيب
 
 Ninja
-== Ninja
+== نينجا
 
 Smoker
-== Smoker
+== مدخن
 
 Boomer
-== Boomer
+== إنتحاري
 
 Hunter
-== Hunter
+== صياد
+
+
+
 
 Undead
 == Mort-vivant
 
+
+
+
+
 Witch
-== Sorcière
+== ساحرة
 
 You are a human: %s
-== Vous êtes un humain : %s
+== أنت إنسان : %s
 
 You are an infected: %s
-== Vous êtes un infecté : %s
+== انت مصاب بالعدوى  : %s
 
 Type "/help %s" for more information about your class
-== Tapez "/help %s" pour plus d'information sur votre classe
+== أكتب "/help %s" لمزية المعلومات عن شخصيتك
 
 List of commands
-== Liste des commandes
+== لإحة الأوامر
 
 /info: Information about this mod
-== /info : Informations à propos de ce mod
+== /info : معلومات حول اللعبة
 
 /help: Rules of the game
-== /help : Règles du jeu
+== /help : قواعد اللعبة
 
 /help <class>: Information about a particular class
-== /help <class> : Informations par rapport à une classe particulière
+== /help <class> : معلومات حول شخصية معينة
 
 /language <lang>: Change the language of the mod
-== /language <lang> : Change la langue du mod
+== /language <lang> : تغيير الغة
+
+
+
+
+
 
 /customskin <none|me|all>: Show player skin instead of class-based skin for, respectively nobody, me or all humans
-== /customskin <none|me|all> : Montre le skin du joueur plutôt que celui basé sur la classe pour, respectivement personne, soi-même ou tout les humains
+== /customskin <none|me|all> : 
 
-/alwaysrandom <0|1>: Choose automatically random class when the round start
-== /alwaysrandom <0|1> : Choisir automatiquement le choix aléatoire en début de manche
+
+
+
+
+
+/alwaysrandom <0|1>: Choose a random class at the beginning of each round
+== /alwaysrandom <0|1> : إختيار عشوائي للشخصية عند بداية كل جولة
 
 Press <F3> or <F4> while holding <TAB> to switch the score system
-== Appuyer sur <F3> or <F4> en maintenant <TAB> permet de changer the système de score
+== إضغط على <F3> أو <F4> مع <TAB> لتغيير  نضام النقاط
 
 InfectionClass, by necropotame (version %s)
 == InfectionClass, par necropotame (version %s)
@@ -155,103 +181,105 @@ Based on Infection mod by Gravity
 == Basé sur le mod Infection, par Gravity
 
 Thanks to %s
-== Remerciements à %s
+== شكرا ل : %s
 
 Rules of the game:
-== Règles du jeu :
+== قواعد اللعبة :
 
 InfectionClass is a team game between humans and infected.
-== InfectionClass est un jeu d'équipe entre humains et infectés.
+== "infectionclass" هي لعبة بين البشر و المصابين بالعدوى
 
 All players start as human.
-== Tous les joueurs commencent comme humains.
+== جميع اللاعبين يبدؤن كبشر
 
 10 seconds later, two players become infected.
-== 10 secondes plus tard, deux joueurs deviennent infectés.
+== بعد عشر ثوانن . يصاب لاعبان بالعدوى
 
 The goal for humans is to survive until the army clean the map.
-== Le but des humains est de survivre jusqu'à ce que l'armée nettoie la zone.
+== يجب على البشر ان ينجوا الي ان يقضي الجيش على الأموات
 
 The goal for infected is to infect all humans.
-== Le but des infectés est d'infecter tous les humains.
-
+== هدف المصابين بالعدوى أن يمرروها إلى البشر
 Engineer:
-== Ingénieur :
+== مهندس :
 
 The Engineer can build walls with his hammer to block infected.
-== L'Ingénieur peut créer avec son marteau des barrières pour bloquer les infectés.
+== يمكن للمهندس أن يبني حواجز بالمطرقة تمنع على المصابين بالعدوى المرور
 
 When an infected touch the wall, he dies.
-== Lorsque qu'un infecté touche la barrière, il meurt.
+== عندما يلمس مصاب بالعدوى الحائط يموت
 
 The lifespan of a wall is 30 seconds, and walls are limited to one per player at the same time.
-== La durée de vie d'une barrière est de 30 secondes, et il ne peut y avoir qu'une barrière par joueur au même moment.
+== يدوم الحائط ثلاثين ثانية
 
 Soldier:
-== Soldat :
+== الجندي :
 
 The Soldier can pose floating bombs with his hammer.
-== Le Soldat peut créer avec son marteau des bombes flottantes.
+== يمكن للجندي أن يخلق قنابل بإستعمال مطرقته
 
 Each bomb can explode three times.
-== Chaque bombe peut exploser trois fois.
+== كل قنبلة يمكن أن تتفجر ثلاثة مرات
 
 Use the hammer to place the bomb and explode it multiple times.
-== Utiliser le marteau pour placer une bombe et la faire exploser plusieurs fois.
-
+== إستعمل المطرقة لوضع القنبلة و التحكم في وقت تفجرها
 Bombs are limited to one per player at the same time.
-== Il ne peut y avoir qu'une barrière par joueur au même moment.
+== لايمكن إستعمال أكثر من قنبلة واحدة لكل جندي
 
 Medic:
-== Médecin :
+== طبيب :
 
 The Medic can protect humans with his hammer by giving them armor.
-== Le Médecin peut protéger les humains à l'aide de son marteau en leur donnant une armure.
+== يمكن للطبيب أن يشفي الاعبين الأحياء عن طريق تزويدهم بدرع
 
 He has also a powerful shotgun that can pullback infected.
-== Il dispose aussi d'un puissant fusil à pompe qui peut repousser les infectés.
+== لديه أيظا بندقية يمكنها أن تدفع المصابين بالعدوى
 
 Ninja:
-== Ninja :
+==نينجا :
 
 The Ninja can throw flash grenades that can freeze infected during three seconds.
-== Le Ninja peut lancer des grenades flash qui immobilisent les infectés pendant trois secondes.
+== يمكن لالنينجا أن يرمي قنابل تشل حركة المصابين بالعدوى لثلاثة ثوانن
 
 His hammer is replaced by a katana, allowing him to jump two times before touching the ground.
-== Son marteau est remplacé par un katana qui lui permet de sauter deux fois avant de toucher terre.
+== مطرقته تم تعويضها بسيف يمكنه من التحليق لمرتين إلى أن يلمس الأرض
 
 Smoker:
-== Smoker :
+==  مدخن :
 
 The Smoker can infect humans and heal infected with his hammer.
-== Le Smoker peut infecter les humains et soigner les infectés à l'aide de son marteau.
+== يمكن للمدخن أن يشفي المصابين بالعدوى و أن يعدي البشر بمطرقته .
 
 He can also inflict 4 damage points per seconds by hooking humans.
-== Il peut aussi infliger 4 points de dégât par seconde quand il agrippe un humain.
+== و يمكن أن يضعف من طاقة البشر بأربع نقاط كل ثانية .
 
 Boomer:
-== Boomer :
+== إنتحاري :
 
 The Boomer explodes when he attack.
-== Le Boomer explose quand il attaque.
+== يمكن أن يتفجر عندما يهاجم.
 
 All humans affected by the explosion become infected.
-== Tous les humains touchés par l'explosion sont infectés.
+== كل البشر ألذين يصلهم الإنفجار يصابو بالعدوى
 
 He can also inflict 1 damage point per seconds by hooking humans.
-== Il peut aussi infliger 1 point de dégât par seconde quand il agrippe un humain.
+== يمكنه أيظا إضعاف طاقة البشر عن طريق الإمساك بهم 
 
 Hunter:
-== Hunter :
+== صياد :
 
 The Hunter can infect humans and heal infected with his hammer.
-== Le Hunter peut infecter les humains et soigner les infectés à l'aide de son marteau.
+==  يمكن للصياد أن يمرر العدوى إلي البشر بمطرقته و أن يشفي المصابن بالعدوى بمطرقته
 
 He can jump two times in air.
-== Il est capable de sauter deux fois dans l'air.
+== يمكنه أن يقفز مرتين في الهواء
+
+
+
+
 
 Undead:
-== Mort-vivant :
+== le mort-vivant :
 
 The Undead can infect humans and heal infected with his hammer.
 == Le Mort-vivant peut infecter les humains et soigner les infectés à l'aide de son marteau.
@@ -260,83 +288,94 @@ Instead of dying, he freezes during 10 seconds.
 == À la place de mourir, il est gelé pendant 10 secondes.
 
 If an infected heals him, the freeze effect disappear.
-== Si un infecté le soigne, l'effet de gèle est enlevé.
+== Si un infecté le soigne, l'effet de gèle est disparut
+
+
 
 Witch:
-== Sorcière :
+== الساحرة :
 
 The Witch can infect humans and heal infected with his hammer.
-== La Sorcière peut infecter les humains et soigner les infectés à l'aide de son marteau.
+== يمكن للساحرة أن يمرر العدوى إلي البشر بمطرقته و أن يشفي المصابن بالعدوى بمطرقته
 
 When an infected dies, he may re-spawn near her.
-== Quand un infecté meurt, il a une chance de ré-apparaître à coté d'elle.
+== عندمى يموت أحد المصابين . يمكن أن يضهر بجانيها مرة أخرى
 
 If the Witch dies, she disappear and is replaced by an another class of infected.
-== Si la Sorcière meurt, elle disparaît et est remplacée par une autre classe d'infecté.
+== إذا ماتت الساحرة . سيتم تعويضها بشخصية أخرى من المصابين بالعدوى 
 
 She can also inflict 1 damage point per seconds by hooking humans.
-== Elle peut aussi infliger 1 point de dégât par seconde quand il agrippe un humain.
+== و يمنكنها أيضا إحداث ضرر واحد للبشر عند الإمساك به
 
 Hook protection enabled
-== Protection contre le grappin activée
+== يمكن للاعبين الإمساك بك
 
 Hook protection disabled
-== Protection contre le grappin désactivé
+== لا يمكن للاعبين الإمساك بك
 
 Unknown language
-== Langue inconnue
+== لغة غير معلومة
 
 Bombs left: %d
-== Bombes restantes : %d
+== قنابل باقية : %d
 
 Laser wall: %d sec
-== Barrière laser : %d sec
+== حاجز الليزر : %d sec
 
 Position lock: %d sec
-== Verrou de position : %d
+== تجمد الموقف : %d sec
 
 Web mode enabled
-== Mode toile activé
+== وضعية العنكبوت 
 
 Mercenary
-== Mercenaire
+== مرتزق
 
 Mercenary:
-== Mercenaire :
+== مرتزق :
 
 The Mercenary fly in air using his machine gun.
-== Le Mercenaire peut voler dans l'air à l'aide de sa mitrailleuse.
+== يحللق المرتزق في الهواء بإستعمال رشاشه
 
 He can also throw poison grenades that deals 8 damage points.
-== Il peut aussi lancer des grenades empoisonnées qui infligent 8 ponits de dégat.
+== يمكنه أيظا أن يرمي قنابل سامة  تضعف من طاقة المصابين بثمان نقاط 
 
 Sniper
-== Sniper
-
+== قناص
 Sniper:
-== Sniper :
+== قناص :
 
 The Sniper can lock his position in air for 15 seconds with his hammer.
-== Le Sniper peut verrouiller sa position dans l'air pendant 15 secondes avec son marteau.
+== يمكن للقناص أن يوقف حركته في الهواء لمدة 15 ثانية 
 
 He has also a powerful rifle that deals 19-20 damage points in locked position, and 9-10 otherwise.
-== Il dispose aussi d'un puissant fusil qui inflige 19-20 points de dégat en position verrouillée, et 9-10 en situation normale
+== يحدث سلاحه عشرين نقطة خسارة للمصابين عندما يوقف حركته 
 
 Spider
-== Araignée
+== عنكبوت
 
 Spider:
-== Araignée :
+== عنكبوت :
 
 The Spider can infect humans and heal infected with his hammer.
-== L'Araignée peut infecté un humain et soigner les infectés à l'aide de son marteau.
+== يمكن للعنكبوت أن يمرر العدوى إلى البشر و أن يشفي المصابين يإستعمال مطرقته
 
 When selecting any gun, his hook enter in web mode.
-== Quand elle selectionne une arme, son grappin entre en mode toile.
+== عند تغيير السلاح يمكن التشغيل وضيعية العنكبوت
+
+
+
+
 
 Any human that touch a hook in web mode is automatically grabbed.
 == Lorsqu'un humain touche un grappin en mode toile, il est automatiquement attrapé par l'Araignée.
 
+
+
+
+
+
+
 The hook of the spider (in both mode) deal 1 damage point per seconds and can grab a human during 2 seconds.
-== Le grappin de l'araignée (dans les deux modes) inflige un point de dégat par seconde et peut tirer un humain pendant 2 secondes.
+== في جميع الحالات . يحدث الإمساك بأحد البشر ضرر واحدا لطاقته كل ثانية
 
